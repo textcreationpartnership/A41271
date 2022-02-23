@@ -1,0 +1,870 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Christian-testimony born by the people of God in scorn called Quakers in London continued in their patient suffering the taking away of their goods for non-payment of tythes to the parish priests.</title>
+            <author>Field, John, 1652-1723.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41271</idno>
+            <idno type="STC">Wing F861A</idno>
+            <idno type="STC">ESTC R226225</idno>
+            <idno type="EEBO-CITATION">26944153</idno>
+            <idno type="OCLC">ocm 26944153</idno>
+            <idno type="VID">109873</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41271)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109873)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1717:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Christian-testimony born by the people of God in scorn called Quakers in London continued in their patient suffering the taking away of their goods for non-payment of tythes to the parish priests.</title>
+                  <author>Field, John, 1652-1723.</author>
+               </titleStmt>
+               <extent>[8], 7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Andrew Sowle,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681/2.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed by Wing and NUC to Field.</note>
+                  <note>Records amounts taken from Quakers for payment of tithes in arrears.</note>
+                  <note>Imperfect: t.p. stained, with loss of text.</note>
+                  <note>Advertisement: p. [1] at end.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tithes.</term>
+               <term>Persecution.</term>
+               <term>Society of Friends --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:109873:1" rendition="simple:additions"/>
+            <p>A <hi>Chriſtian-Teſtimony</hi> Born by ſome of the PEOPLE of GOD In <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> QUAKERS IN LONDON: <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their Patient ſuffering the Taking Away of their <hi>Goods</hi> for Non-Payment of <hi>Tythes</hi> to the Pariſh Prieſts.</p>
+            <q>
+               <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Apoſtle ſaith,</hi> I have coveted no mans Silver, Gold or Apparel: Ye your ſelves know, that theſe Hands have <gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>iniſtred to my <gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>eſſities, and to them that were with <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, <bibl>
+                  <hi>Acts 20.3<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.34.</hi>
+               </bibl>
+            </q>
+            <q>
+               <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</hi> What is my Reward then? verily that when I Preach the Goſpel, I may make the <hi>Goſpel of Chriſt Without <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</hi> that I abuſe not my Power in the Goſpel; for though I be free from all men, yet have I made my ſelf <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ervant to all, that I might gain the more, <bibl>
+                  <hi>1 Cor. 9.18, 19.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Andrew Sowle,</hi> 1681/2.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:109873:2"/>
+            <pb facs="tcp:109873:2"/>
+            <head>THE PREFACE TO THE READER</head>
+            <opener>
+               <salute>Friendly Reader;</salute>
+            </opener>
+            <p>THE following matter being an Account of the diſtraining and taking away of the Goods of ſome of us, the People called <hi>Quakers</hi> in the City of <hi>London,</hi> becauſe we refuſed to pay unto the Pariſh Prieſts Tythes or certain Sums of mony, in Law called <hi>Tythes;</hi> We, the ſaid People, ſhall in Chriſtian Ten<g ref="char:EOLhyphen"/>derneſs and Plainneſs render ſome <hi>Chriſtian Reaſons</hi> why we cannot pay or give Tythes to the Pariſh Prieſts or Miniſters.</p>
+            <p>
+               <hi>Firſt,</hi> We are not Unbelieving <hi>Jews,</hi> but Real <hi>Chri<g ref="char:EOLhyphen"/>ſtians,</hi> therefore we cannot give or pay them Tythes. God commanded Tythes to be paid under the Diſpen<g ref="char:EOLhyphen"/>ſation of the Law, which came by <hi>Moſes,</hi> and thoſe Tythes were ordained for the Relief of the Widdows, Fatherleſs and Strangers, as well as for the Prieſts. This command for paying and receiving Tythes, as aforeſaid, continued in force amongſt the <hi>Jews,</hi> till
+<pb facs="tcp:109873:3"/>our Lord Jeſus Chriſt came in the Fleſh, and had of<g ref="char:EOLhyphen"/>fered himſelf up through the Eternal Spirit; who by his one Offering put an End to the Prieſthood of <hi>Aaron</hi> and <hi>Levi,</hi> together with their Temple and Tythes, and all the reſt of the Shadowy Offerings and Ser<g ref="char:EOLhyphen"/>vices: And as the Apoſtle ſaid, <hi>God diſannulled this Commandment for the Weakneſs and Unprofitableneſs thereof; for the Law made nothing Perfect,</hi> &amp;c. <hi>For ſuch an High Prieſt becometh us, who is Holy, Harmleſs, ſeparate from Sinners, &amp;c.</hi> ſee Heb. 7.18, 19, 26. And again, <hi>The Prieſthood being changed, there is made of neceſſity a change of the Law,</hi> Verſ. 12. So Chriſt by his One Of<g ref="char:EOLhyphen"/>fering hath Ended this Diſpenſation of Tything above Sixteen Hundred Years ſince. But when this Com<g ref="char:EOLhyphen"/>mand was in Force, it was only to the Natural <hi>Jews,</hi> and therefore no Concern of ours, who are by Nature <hi>Gentiles.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> Chriſt, who ended this <hi>Jewiſh</hi> Diſpenſa<g ref="char:EOLhyphen"/>tion of Tything, did not ſet up Tythes again in the Goſpel Diſpenſation, either among <hi>Jews</hi> or <hi>Gentiles,</hi> for the Maintenance of his Miniſters, (nor for any other uſe) but contrary-wiſe commanded his Mini<g ref="char:EOLhyphen"/>ſters, ſaying, <hi>Freely ye have received, Freely give, &amp;c. and whoſoever ſhall not hear you, nor receive your Words, when you depart out of that Houſe or City, ſhake off the Duſt of your Feet,</hi> Mat. 10.7, 14. Again, <hi>But into whatſo<g ref="char:EOLhyphen"/>ever City ye enter, and they receive you, eat ſuch things as are ſet before you, &amp;c. But into whatſoever City you enter, and they receive you not, go your ways out into the Streets of the ſame, and ſay, Even the very Duſt of your City, which cleaveth to us, we do wipe off againſt you,</hi> Luke 10.8, 10, 11. Thus it plainly appears, that Chriſt's Command was and is, to preach or miniſter
+<pb facs="tcp:109873:3"/>Freely, as they then had, and ſuch now have, received Freely; and thoſe who are truly his Miniſters, do keep this his Command; and ſuch have Power in Chriſt to eat ſuch as is ſet before them, by thoſe who do receive them; but not to take Tythes or Sums of Mo<g ref="char:EOLhyphen"/>ney, for preaching, from thoſe who do not receive, be<g ref="char:EOLhyphen"/>lieve nor own their Teſtimony, nor Sue them at Law, to take away or Spoil their Goods, becauſe they refuſe to pay them. This Practice of the aforeſaid Prieſts is contrary to both Law and Goſpel. For when the <hi>Jews</hi> broke the Law of God, in not bringing Tythes into his Store-Houſe, we do not read, nor believe, that God did impower Magiſtrates to give Warrants to the Prieſts, under the Law, to diſtrain or take away their Goods for the ſame, nor to take Double or Treble the Value of the Tythes then Due; nor to Impriſon and Oppreſs the Bodies of ſuch Offenders; neither was it then ſaid, that ſuch Offenders did Rob the Prieſts, but that they Robbed God; neither were the Prieſts or Magiſtrates to puniſh them for this Robbery; but the Power of puniſhing of theſe, the great God re<g ref="char:EOLhyphen"/>ſerved in himſelf, and he Blaſted or Curſed the Fruits of the Earth, as a Puniſhment for their Rebel<g ref="char:EOLhyphen"/>lion, &amp;c. ſee <hi>Mal.</hi> 3. <hi>Deut.</hi> 28.38, 39, 40.</p>
+            <p>
+               <hi>Objection;</hi> Some perhaps may object from the A<g ref="char:EOLhyphen"/>poſtles words, on the behalf of the aforeſaid Prieſts of <hi>London,</hi> and ſay, <hi>Who goeth a Warfare any time at his own Charge? Who planteth a Vineyard, and eateth not of the Fruit thereof? Who feedeth a Flock, and eateth not of the Milk of the Flock? If we ſow unto you Spiritual Things, is it a great matter if we ſhall reap of your Carnal Things?</hi>
+            </p>
+            <pb facs="tcp:109873:4"/>
+            <p>
+               <hi>Anſ.</hi> What the Apoſtle ſaith in this Caſe we own; but this is not the Caſe betwixt us and the Prieſts a<g ref="char:EOLhyphen"/>foreſaid; for, <hi>Firſt,</hi> Thoſe Prieſts do not go to War for us, but againſt us; therefore we ought not to bear the Charge of this their Evil War.</p>
+            <p>
+               <hi>Secondly,</hi> They have not planted us a Vineyard or Church unto God; but we being planted of God, they have laboured, and do labour to ſcatter us by their Cruelties and Oppreſſion, therefore they ought not to have a Reward from us, for whom they do not work.</p>
+            <p>
+               <hi>Thirdly,</hi> They do not feed us, who are the Flock of God; but on the contrary, their Works againſt us have been, and are, to ſeek to weaken, ſtarve and ſcat<g ref="char:EOLhyphen"/>ter us from tht Fold of our great Shepherd <hi>Chriſt Jeſus:</hi> But Glory to God, through him, he keeps us, who is ſtronger then them all, by whom we are ga<g ref="char:EOLhyphen"/>thered, perſerved, fed and brought to Peace and Reſt in him</p>
+            <p>
+               <hi>Fourthly,</hi> Theſe Prieſts have not ſown, nor do ſow unto us Spiritual Things, but on the contrary; the Fruits of the Fleſh, which is Covetouſneſs, &amp;c. they have ſown in a plentious manner, to our great Wrong and Injury; therefore we cannot own them as Mini<g ref="char:EOLhyphen"/>ſters of Chriſt, nor conſent to give our Subſtance to maintain them as ſuch; but we have true Love to them, and all men, and we could feed them as our Enemies, if we knew they had need thereof, though we cannot feed them as the Miniſters of Chriſt, we not believing them to be ſuch; and that which the more confirms us in our Belief, that they are not ſuch,
+<pb facs="tcp:109873:4"/>is, their being found in direct Oppoſition to the Com<g ref="char:EOLhyphen"/>mand of Chriſt, who ſaith, <hi>Freely ye have Received, Freely Give;</hi> and contrary to the Doctrine and Ex<g ref="char:EOLhyphen"/>ample of the Miniſters of Chriſt, both in their Main<g ref="char:EOLhyphen"/>tenance and Converſation.</p>
+            <p>Again, the Apoſtle <hi>Peter</hi> writ unto the Elders of the Church of Chriſt, ſaying, <hi>The Elders which are among you, I exhort, who am alſo an Elder, and Witneſs of the Suffering of Chriſt, and alſo a Partaker of the Glory that ſhall be revealed; Feed the Flock of God, which is among you, taking the Over-ſight thereof, not by Conſtraint, but Willingly; Not for filthy Lucre, but of a Ready Mind; Neither as being Lords over God's Heritage, but being En<g ref="char:EOLhyphen"/>ſamples to the Flock;</hi> ſee 1 Pet. 5.1, 2, 3.</p>
+            <p>
+               <hi>Firſt,</hi> Obſerve, the Apoſtle <hi>Peter,</hi> and the reſt of the Elders of the Church of Chriſt were made SUCH by Chriſt himſelf, who endued them with Power from on High, for the great Work of the Miniſtry; and by the ſame means are all the Elders of the Church of Chriſt made at this Day.</p>
+            <p>
+               <hi>Secondly,</hi> The true Miniſters and Elders of the Church of Chriſt do take the Over-ſight thereof not by Conſtraint, but Willingly: God makes them wil<g ref="char:EOLhyphen"/>ling to preach <hi>Freely,</hi> according to Chriſt's Com<g ref="char:EOLhyphen"/>mand; they do not take the over-ſight of the Flock for filthy Lucre, but of a ready Mind. <hi>Note,</hi> The word <hi>Lucre</hi> ſignifies <hi>Gain;</hi> and <hi>filthy Lucre</hi> is <hi>Gain ill gotten:</hi> Now that Gain that is gotten in breaking the Com<g ref="char:EOLhyphen"/>mand of Chriſt is not well, but ill gotten; and ſuch is that Gain of the Perſons before-mentioned, which is gotten as aforeſaid.</p>
+            <pb facs="tcp:109873:5"/>
+            <p>
+               <hi>Thirdly,</hi> The true Elders and Miniſters of Chriſt neither were nor are, Lords over God's Heritage, but good Enſamples to the Flock; and becauſe the Perſons before-mentioned do not abide in the Do<g ref="char:EOLhyphen"/>ctrine of Chriſt, neither follow the Doctrine or Ex<g ref="char:EOLhyphen"/>ample of his holy Apoſtles and Elders in their Call, Miniſtry, Maintenance and Converſation, therefore we cannot eſteem them the true Miniſters and Elders ſet up by Chriſt; and therefore we cannot give them of our outward Subſtance to uphold them as ſuch. The Apoſtle <hi>Paul</hi> ſaith, <hi>There were many in his day, who taught that which they ought not for filthy Lucres ſake;</hi> ſee Tit. 1.11. And we have juſt cauſe to ſay there are many ſuch in our day; but the Lord is diſcovering them daily more and more, and he will bring theſe their Evil Works to an End, in his ap<g ref="char:EOLhyphen"/>pointed Seaſon, which haſtens on apace; and in the mean time we are chearfully given up to ſuffer what<g ref="char:EOLhyphen"/>ever the Lord permits our Adverſaries to inflict upon us for the Exerciſe of our tender Conſciences to him.</p>
+            <p>Theſe are ſome of the many Reaſons that might be given, why we refuſe, and cannot for good Conſcience-ſake Pay Tythe; but as we have, ſo we muſt continue bearing our <hi>Chriſtian</hi>-Teſtimony (in the Spirit of Chriſt) againſt paying of them, as being contrary to the Doctrine and Practice of our Lord and Saviour Jeſus Chriſt, and his bleſſed Apoſtles.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:109873:5"/>
+            <head>An Account of Goods taken from the Peaceable People of God called QUAKERS, in the New-buildings in the City of <hi>London,</hi> for Tythes, demanded by the Prieſts in part of the Years 1680, and 81. by virtue of Warrants granted by <hi>Patient Ward,</hi> then Mayor.</head>
+            <div type="part">
+               <head>The 11th of the 11th Moneth, called <hi>January.</hi>
+               </head>
+               <p>TAken from <hi>George Bradford,</hi> Glaſier in <hi>Buſh-Lane,</hi> in the Pariſh of <hi>Swithings</hi> in <hi>London,</hi> for 16 <hi>s.</hi> demanded for two years Tythes for <hi>Richard Owen,</hi> Prieſt of the ſaid Pariſh, <hi>viz.</hi> a Pull-up-Jack, and three Pewter Diſhes, the weight of the Pewter, and the Names of the Conſtable and Collector not known.</p>
+               <p>Note, <hi>The ſaid</hi> George Bradford <hi>being now ſummoned before the Mayor by the aforeſaid Prieſt, complained, that the laſt time he had diſtrained from him</hi> (<hi>for but</hi> 1 l. 16 s. <hi>demanded</hi>) <hi>Goods to the value of</hi> Six <hi>or</hi> Seven Pound, <hi>and had but</hi> 20 s. <hi>returned; which the Mayor was pleaſed to declare,</hi> Was contrary to Law, and that he would not ſuffer it; <hi>which is judged might be the occaſion of their being (contrary to their wonted Practice) ſomething Mode<g ref="char:EOLhyphen"/>rate now.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>The 7th of the 5th Moneth, called <hi>July, 1681.</hi>
+               </head>
+               <p>Taken from <hi>John Oſgood</hi> of <hi>White-Heart Court</hi> in <hi>Lumbard-ſtreet,</hi> Linnen Draper, for 33 <hi>s.</hi> 4 <hi>d.</hi> demanded for Tythes for Dr <hi>Archer</hi> (ſo called) Prieſt of <hi>Alhallows Lumbard-ſtreet,</hi> by the ſaid Doctor's man, Sixty Ells of Linnen, valued at 9 <hi>d. per</hi> Ell, and comes to 2 <hi>l.</hi> 5 <hi>s.</hi>
+               </p>
+               <p>
+                  <table>
+                     <row>
+                        <cell> </cell>
+                        <cell>
+                           <hi>l.</hi>
+                        </cell>
+                        <cell>
+                           <hi>s.</hi>
+                        </cell>
+                        <cell>
+                           <hi>d.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Returned</cell>
+                        <cell>0</cell>
+                        <cell>10</cell>
+                        <cell>4</cell>
+                     </row>
+                     <row>
+                        <cell>Detained</cell>
+                        <cell>1</cell>
+                        <cell>14</cell>
+                        <cell>8</cell>
+                     </row>
+                     <row>
+                        <cell>Demanded for Tythes</cell>
+                        <cell>1</cell>
+                        <cell>13</cell>
+                        <cell>4</cell>
+                     </row>
+                     <row>
+                        <cell>Taken no more over than</cell>
+                        <cell>0</cell>
+                        <cell>01</cell>
+                        <cell>4</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="2" facs="tcp:109873:6"/>
+               <head>The Prieſts Account to <hi>Richard Whitpaine, July</hi> 6. 1681.</head>
+               <p>
+                  <hi>Goods diſtrained of</hi> Richard Whitpaine, <hi>by virtue of my Lord Mayors Warrant, for one Year and Quarters Tythes, due at</hi> Lady-day <hi>laſt paſt to Doctor</hi> Elkanas Downes, <hi>Rector of the Pariſh of St.</hi> Leonard Eaſtcheap; <hi>and the ſaid Houſe is rated at</hi> 1 l. 2 s. per annum, <hi>the whole Tythes amount to</hi> 1 l. 7 s. 6 d.</p>
+               <p>
+                  <table>
+                     <row>
+                        <cell> </cell>
+                        <cell>l.</cell>
+                        <cell>s.</cell>
+                        <cell>d.</cell>
+                     </row>
+                     <row>
+                        <cell>(viz.) <hi>Eighty Six Pound of Pewter at</hi> 7 d. per <hi>Pound</hi>
+                        </cell>
+                        <cell>02</cell>
+                        <cell>10</cell>
+                        <cell>02</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>The Doctor's Tythes is</hi>
+                        </cell>
+                        <cell>01</cell>
+                        <cell>07</cell>
+                        <cell>06</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>The Charges</hi>
+                        </cell>
+                        <cell>00</cell>
+                        <cell>12</cell>
+                        <cell>04</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>01</cell>
+                        <cell>19</cell>
+                        <cell>10</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>The Goods were appraiſed at</hi>
+                        </cell>
+                        <cell>02</cell>
+                        <cell>10</cell>
+                        <cell>02</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>The Overplus is</hi>
+                        </cell>
+                        <cell>00</cell>
+                        <cell>10</cell>
+                        <cell>04</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>An account of what Pewter it was that was diſtrained from <hi>Richard Whitpaine, viz.</hi> Eight large Pewter Diſhes, four leſſer, ſixteen large Plates, and two Baſons, which if it were to be bought, would coſt him about four Pounds.</p>
+               <p>Note, <hi>The</hi> 10 s. <hi>Overplus was flung into the Houſe of the ſaid</hi> Richard Whitpaine, <hi>ſealed up in a Paper, he having before then refuſed to receive it.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>The 20th day of <hi>September, 1681.</hi>
+               </head>
+               <p>Taken from <hi>John Beckley</hi> of the Liberty of <hi>Martins le Grand</hi> in <hi>London,</hi> Perfumer, for 7 <hi>s.</hi> demanded for one Years Tythes, for <hi>Samuel Freeman</hi> Prieſt of the Pariſh called <hi>Anne</hi> and <hi>Agnes,</hi> three Pewter Diſhes, weight 9 <hi>l.</hi> 6½ <hi>ouz.</hi> at 7 <hi>d. per</hi> Pound, is 5 <hi>s.</hi> 7 <hi>d.</hi> and five Braſs Candleſticks valued at 5 <hi>s.</hi>
+               </p>
+               <p>
+                  <table>
+                     <row>
+                        <cell> </cell>
+                        <cell>
+                           <hi>s.</hi>
+                        </cell>
+                        <cell>
+                           <hi>d.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>In all</cell>
+                        <cell>10</cell>
+                        <cell>7</cell>
+                     </row>
+                     <row>
+                        <cell>Demanded</cell>
+                        <cell>07</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Taken more than demanded</cell>
+                        <cell>03</cell>
+                        <cell>7</cell>
+                     </row>
+                     <row>
+                        <cell>And no Returns made.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+               <pb n="3" facs="tcp:109873:6"/>
+               <p>This Diſtreſs was made by <hi>Francis Brown,</hi> one of the Mayors Officers, and <hi>Henry Wyett,</hi> Conſtable of the aforeſaid Liberty.</p>
+            </div>
+            <div type="part">
+               <head>Ditto Diem.</head>
+               <p>Taken from <hi>Richard Townſend</hi> of <hi>Martins le Grand,</hi> aforeſaid, by the aforeſaid Officer and Conſtable, for 15 <hi>s.</hi> demanded for the aforeſaid Prieſt, five large Fiſhing-Rods, valued at 1 <hi>l.</hi> 5 <hi>s.</hi>
+               </p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>Demanded</cell>
+                        <cell>0</cell>
+                        <cell>15</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Taken more than demanded</cell>
+                        <cell>0</cell>
+                        <cell>10</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>And no Returns made.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="part">
+               <head>The 7th Moneth, <hi>1681.</hi>
+               </head>
+               <p>Taken from <hi>William Crouch</hi> of the Pariſh called <hi>Bennet Grace-Church,</hi> by <hi>John Jeſſe</hi> of <hi>Ball-Alley</hi> in <hi>Lumbard-ſtreet,</hi> for 3 <hi>l.</hi> 18 <hi>s.</hi> demanded for one year and half Tythes, for <hi>Henry Halſteed,</hi> Prieſt of the aforeſaid Pariſh, and for a pretended Arrears 11 <hi>s.</hi> 2 <hi>d.</hi> and Charges 7 <hi>s.</hi> 4 <hi>d.</hi> Goods to the value of 4 <hi>l.</hi> 14 <hi>s.</hi>
+               </p>
+               <p>
+                  <table>
+                     <row>
+                        <cell> </cell>
+                        <cell>
+                           <hi>l.</hi>
+                        </cell>
+                        <cell>
+                           <hi>s.</hi>
+                        </cell>
+                        <cell>
+                           <hi>d.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Demanded</cell>
+                        <cell>3</cell>
+                        <cell>18</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Pretended Arrears</cell>
+                        <cell>0</cell>
+                        <cell>11</cell>
+                        <cell>2</cell>
+                     </row>
+                     <row>
+                        <cell>Charges.</cell>
+                        <cell>0</cell>
+                        <cell>07</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>4</cell>
+                        <cell>16</cell>
+                        <cell>2</cell>
+                     </row>
+                     <row>
+                        <cell>So that according to their pretended Dues, Ar<g ref="char:EOLhyphen"/>rears and Charges, they have taken leſs then what they make it come to by</cell>
+                        <cell>0</cell>
+                        <cell>02</cell>
+                        <cell>2</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="part">
+               <head>The Prieſts Bill to <hi>William Baker</hi> is as followeth.</head>
+               <head type="sub">October 18. 1681.</head>
+               <p>
+                  <hi>Eight Muffs diſtrained for Miniſters Tythes, and they were praiſed at one Pound twelve Shillings, and ſold for one Pound twelve Shillings.</hi>
+               </p>
+               <pb n="4" facs="tcp:109873:7"/>
+               <p>
+                  <table>
+                     <row>
+                        <cell> </cell>
+                        <cell>
+                           <hi>l.</hi>
+                        </cell>
+                        <cell>
+                           <hi>s.</hi>
+                        </cell>
+                        <cell>
+                           <hi>d.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Due for a Year and half Tythes, ending at</hi> Chriſt<g ref="char:EOLhyphen"/>mas, 1680. <hi>at</hi> 15 s. per <hi>Year, comes to</hi>
+                        </cell>
+                        <cell>1</cell>
+                        <cell>02</cell>
+                        <cell>6</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>For Affedavid</hi>
+                        </cell>
+                        <cell>0</cell>
+                        <cell>00</cell>
+                        <cell>4</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>For a Summons</hi>
+                        </cell>
+                        <cell>0</cell>
+                        <cell>01</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>For Diſtreſs</hi>
+                        </cell>
+                        <cell>0</cell>
+                        <cell>02</cell>
+                        <cell>6</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>For the Warrant</hi>
+                        </cell>
+                        <cell>0</cell>
+                        <cell>03</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>For Portridge</hi>
+                        </cell>
+                        <cell>0</cell>
+                        <cell>00</cell>
+                        <cell>6</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Spent at Praiſing and Diſtraining</hi>
+                        </cell>
+                        <cell>0</cell>
+                        <cell>02</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Comes to</hi>
+                        </cell>
+                        <cell>1</cell>
+                        <cell>11</cell>
+                        <cell>10</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Returned</hi>
+                        </cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                        <cell>2</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Taken by <hi>Thomas Hewit,</hi> Officer, for Prieſt <hi>Hodſhis,</hi> which Goods were bought of the Officer by a Neighbour, and returned to me again, and the Money he paid ſtopped out of Money be owed to me, without any order, and wholly contrary to my mind.</p>
+            </div>
+            <div type="part">
+               <head>The 28th of the 8th Moneth, <hi>1681.</hi>
+               </head>
+               <p>Taken from <hi>John Tyſo,</hi> Shoemaker, of the Pariſh call'd <hi>Anne</hi> and <hi>Agnes,</hi> for 2 <hi>l.</hi> 16 <hi>s.</hi> 10 <hi>d.</hi> demanded for three years and a quarter Tythes, for <hi>S. mu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l Freeman</hi> Prieſt, by <hi>Francis Brown</hi> Officer, and a Conſtable that refuſed to tell his Name, forty pair of mens Shoes, valued at 7 <hi>l.</hi>
+               </p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>Demanded</cell>
+                        <cell>2</cell>
+                        <cell>16</cell>
+                        <cell>10</cell>
+                     </row>
+                     <row>
+                        <cell>Returned eleaven pair of Shoes, valued at</cell>
+                        <cell>1</cell>
+                        <cell>14</cell>
+                        <cell>10</cell>
+                     </row>
+                     <row>
+                        <cell>Demanded and Returned</cell>
+                        <cell>4</cell>
+                        <cell>11</cell>
+                        <cell>8</cell>
+                     </row>
+                     <row>
+                        <cell>Taken and detained more than demanded or returned</cell>
+                        <cell>2</cell>
+                        <cell>08</cell>
+                        <cell>3</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+         </div>
+         <div type="account">
+            <pb n="5" facs="tcp:109873:7"/>
+            <head>Here followeth an Account of ſome Diſtreſſes that were omitted in the former Impreſſions that were printed upon this account.</head>
+            <div type="part">
+               <head>The 6th of the firſt Moneth, called <hi>March, 167<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>/<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </head>
+               <p>TAken from <hi>Willi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Phillips</hi> by virtue of a Warrant granted by <hi>James Edwards,</hi> then Mayor, unto <hi>David Barton,</hi> called <hi>Roctor</hi> of the Pariſh call'd <hi>Margaret New-Fiſhſtreet,</hi> thirty ſix Gal<g ref="char:EOLhyphen"/>lons of Brandy, worth 3 <hi>s.</hi> 8 <hi>d. per Gallon,</hi> which comes to 6 <hi>l.</hi> 12 <hi>s.</hi> for 3 <hi>l.</hi> 17 <hi>s.</hi> demanded for Tythes for the aforeſaid Prieſt, by <hi>John Jeſſe</hi> of <hi>Ball-Alley</hi> in <hi>Lumbard-ſtreet.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Their Account is as followeth.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>
+                           <hi>Thirty ſix Gallons of Brandy, appraiſed at</hi> 3 s. per <hi>Gallons, comes to</hi>
+                        </cell>
+                        <cell>5</cell>
+                        <cell>08</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tythes</hi>
+                        </cell>
+                        <cell>3</cell>
+                        <cell>17</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Charges</hi>
+                        </cell>
+                        <cell>0</cell>
+                        <cell>17</cell>
+                        <cell>11</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>In all</hi>
+                        </cell>
+                        <cell>4</cell>
+                        <cell>14</cell>
+                        <cell>1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>No Returns.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <hi>Note,</hi> That there reſts in their hands, according to their own account, 13 <hi>s.</hi> 2 <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>b.</hi> Beſides the 1 <hi>l.</hi> 4 <hi>s.</hi> the Brandy was under praiſed at, which would make 1 <hi>l.</hi> 17 <hi>s.</hi> 2 <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>b.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>The 14th day of the ſame Moneth.</head>
+               <p>Taken from <hi>Richard Cripps</hi> of the aforeſaid Pariſh, for the aforeſaid Prieſt, by Warrant from the aforeſaid Mayor, and by the aforeſaid <hi>John Jeſſe,</hi> for 3 <hi>l.</hi> 2 <hi>s.</hi> 3 <hi>d.</hi> demanded for Tythes, 50 couple of Fiſh, valued at 4 <hi>l.</hi> 16 <hi>s.</hi> 8 <hi>d.</hi>
+               </p>
+               <pb n="6" facs="tcp:109873:8"/>
+               <p>
+                  <table>
+                     <row>
+                        <cell> </cell>
+                        <cell>
+                           <hi>l.</hi>
+                        </cell>
+                        <cell>
+                           <hi>s.</hi>
+                        </cell>
+                        <cell>
+                           <hi>d.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Taken</cell>
+                        <cell>4</cell>
+                        <cell>16</cell>
+                        <cell>08</cell>
+                     </row>
+                     <row>
+                        <cell>Demanded for Tythes</cell>
+                        <cell>3</cell>
+                        <cell>02</cell>
+                        <cell>03</cell>
+                     </row>
+                     <row>
+                        <cell>For Charges</cell>
+                        <cell>1</cell>
+                        <cell>00</cell>
+                        <cell>06</cell>
+                     </row>
+                     <row>
+                        <cell>Demands and Charges</cell>
+                        <cell>4</cell>
+                        <cell>02</cell>
+                        <cell>09</cell>
+                     </row>
+                     <row>
+                        <cell>No Returns. So that there reſts in their hands</cell>
+                        <cell>0</cell>
+                        <cell>13</cell>
+                        <cell>11</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Notwithſtanding, the Prieſt claims 16 <hi>s.</hi> 1 <hi>d.</hi> to be ſtill due to him; by which it may be concluded, that except he hath above or near 20 <hi>s.</hi> more than his Tythes and Charges come to (as in the foregoing caſe of the <hi>Brandy</hi>) he is not contented. But its hoped, that this, with their other Practices, will tend to the opening that Eye in our neighbour and fellow Citizens, by which they may clearly ſee (notwithſtanding their Pretences of being Go<g ref="char:EOLhyphen"/>ſpel Miniſters) that they are neither in the Spirit nor Practice of the primitive Miniſters, which took the Overſight of the Flock of God, <hi>Not by Conſtraint, but Willingly; not for filthy Lucre, but of a Ready Mind; neither as being Lords over Gods Heritage, but being Enſamples to the Flock.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>The 12th of the 9th Moneth, <hi>1679.</hi>
+               </head>
+               <p>Taken from <hi>William Crouch</hi> of the Pariſh called <hi>Bennet Grace-Church,</hi> by virtue of a Warrant granted by <hi>Robret Clayton,</hi> then Mayor, unto <hi>Henry Halſteed,</hi> Prieſt of the aforeſaid Pariſh, for one year and a half Tythes, reckoned at 3 <hi>l.</hi> 18 <hi>s</hi> (by <hi>John Jeſſe</hi> of <hi>Ball-Alley</hi> in <hi>Lumbard-ſtreet</hi>) the Goods following.</p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>A piece of Say that coſt</cell>
+                        <cell>1</cell>
+                        <cell>18</cell>
+                        <cell>6</cell>
+                     </row>
+                     <row>
+                        <cell>But appraiſed by them at</cell>
+                        <cell>1</cell>
+                        <cell>05</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>In Ticking 61 yards at 14 <hi>d. per</hi> yard, comes to</cell>
+                        <cell>3</cell>
+                        <cell>11</cell>
+                        <cell>2</cell>
+                     </row>
+                     <row>
+                        <cell>Which makes at the loweſt rate</cell>
+                        <cell>4</cell>
+                        <cell>16</cell>
+                        <cell>2</cell>
+                     </row>
+                     <row>
+                        <cell>Demanded for Tythes</cell>
+                        <cell>3</cell>
+                        <cell>18</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Account for Charges</cell>
+                        <cell>0</cell>
+                        <cell>15</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>4</cell>
+                        <cell>13</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Taken more then the Charges and Demands</cell>
+                        <cell>0</cell>
+                        <cell>03</cell>
+                        <cell>2</cell>
+                     </row>
+                     <row>
+                        <cell>And no Returns.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+               <pb n="7" facs="tcp:109873:8"/>
+               <p>¶ Yet did the Officer the next time make OATH, That there was 11 <hi>s.</hi> 2 <hi>d.</hi> ſtill due. But I deſire, that God may give him a Heart to repent of this his Evil, leſt that Lake (which all Swearers, as well as Lyars muſt have their part in) which burneth with Fire and Brimſtone, which is the ſecond Death, be his Portion.</p>
+            </div>
+            <div type="part">
+               <head>The 22d of the 4th Moneth, <hi>1680.</hi>
+               </head>
+               <p>Taken from <hi>William Baker,</hi> by Warrant from <hi>Robert Clayton,</hi> Mayor, by <hi>John Jeſſe</hi> and <hi>Edmond Bowley,</hi> Clerk of the Pariſh, together with a Conſtable and a Porter, for 2 <hi>l.</hi> 5 <hi>s.</hi> demanded for Dr <hi>Aſton</hi> (ſo called) for twelve Quarters Tythes, ending the 25th of the 1ſt Moneth, 1677. for which they ſeized from the aforeſaid <hi>William Baker</hi> 126 black Coney-Skins, which the the Appraiſers valued at 3 <hi>l.</hi> 3 <hi>s.</hi> A Note of the Charge as fol<g ref="char:EOLhyphen"/>loweth:
+<table>
+                     <row>
+                        <cell>
+                           <hi>To the Prieſt for Tythes</hi>
+                        </cell>
+                        <cell>2 <hi>l.</hi>
+                        </cell>
+                        <cell>05 <hi>s.</hi>
+                        </cell>
+                        <cell>00 <hi>d.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>To Charge, Expence and Appraiſment</hi>
+                        </cell>
+                        <cell>0</cell>
+                        <cell>14</cell>
+                        <cell>10</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Which Goods, after they had remained in the ſaid Clerks <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ds above a year, the ſaid Dr <hi>Aſton</hi> did deny the taking of them by his order, and ordered they ſhould be delivered back to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, which was accordingly done, without demanding any thing <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Charges.</p>
+               <p>Note, <hi>This account we thought meet to Print, being willing to give all <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>n their Due, as well in ſpeaking in the commendation of their Moderation, where it appears, as to manifeſt their Oppreſſion, when they take Goods to double the Demand, and ſell them at under Rates, and bring a large Accompt of Charges, delighting more to ſpeak of their Moderation than their Oppreſſion.</hi>
+               </p>
+            </div>
+            <trailer>THE END.</trailer>
+            <pb n="6" facs="tcp:109873:9"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="7" facs="tcp:109873:9"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:109873:10"/>
+            <head>BOOKS Printed and Sold by <hi>Andrew So<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi> Shop in <hi>Devonſhire-</hi>Buildings, without <hi>Biſhops-gate,</hi> viz.</head>
+            <list>
+               <item>The <hi>Great Caſe of Tythes,</hi> by Francis <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Price 6 <hi>d.</hi>
+               </item>
+               <item>
+                  <hi>Tythes <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ded by Chriſt,</hi> by William <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Price 6 <hi>d.</hi>
+               </item>
+               <item>The <hi>Foundation</hi> of <hi>Tythes Shaken,</hi> by <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Elwood. Price bound 3 <hi>s.</hi>
+               </item>
+               <item>A <hi>Teſtimony againſt Tything</hi> among <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> by Richard Richardſon. Price 10 <hi>d.</hi>
+               </item>
+               <item>A <hi>Treatiſe</hi> of <hi>Oathes,</hi> containing ſeveral <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Reaſons</hi> why the People called <hi>Quaker</hi> 
+                  <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to <hi>Swear;</hi> Confirm'd by Numerous <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> out of <hi>Gentiles, Jews</hi> and <hi>Chriſtians, <gap reason="illegible" resp="#MURP" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>thers, Doctors</hi> and <hi>Martyrs,</hi> Preſented <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <hi>King</hi> and <hi>Parliament.</hi> Price 1 <hi>s.</hi>
+               </item>
+               <item>An <hi>Addreſs</hi> to <hi>Proteſtants</hi> upon the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Conjuncture,</hi> in <hi>Two Parts,</hi> by <hi>William <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> Price 1 <hi>s.</hi> 6 <hi>d.</hi>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>
